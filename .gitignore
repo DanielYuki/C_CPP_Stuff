@@ -2,5 +2,5 @@
 *.o
 *.exe
 
-*/cmake-build-debug
-*.ideia
+/Problems/**/cmake-build-debug
+/Problems/**/.idea
