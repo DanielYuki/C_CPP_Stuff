@@ -14,7 +14,7 @@ This is a command for the GNU Compiler Collection (GCC) to compile and link a C+
 
 6. `-lm`: This is an option to link the math library (`libm`). It is used to provide the math functions used in the program, such as `sqrt()`, `sin()`, and `cos()`.
 
-Overall, this command compiles the C++ source code files (`main.cpp` and `functions.cpp`) and links them to generate an executable file (`exeName`). The header file (`functions.h`) is included to provide the function declarations to the compiler. Finally, the math library is linked to provide the required math functions.
+Overall, this command compiles the C++ source code files (`main.cpp` and `functions.cpp`) and links them to generate an executable file (`outName`). The header file (`functions.h`) is included to provide the function declarations to the compiler. Finally, the math library is linked to provide the required math functions.
 
 ---
 
