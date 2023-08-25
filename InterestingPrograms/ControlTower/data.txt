@@ -1,0 +1,29 @@
+Totally Real International Airport
+Control Tower: Messages received
+
+=========================================
+MESSAGE            FLIGHT  FROM
+
+START              0000    -
+runway_ready       0000    -
+landing_attempt    1234    Amsterdam
+runway_ready       0000    -
+runway_ready       0000    -
+landing_attempt    8086    San Francisco
+landing_attempt    4444    London
+landing_attempt    0055    Paris
+landing_attempt    4321    Brazil
+URGENCY            4321    -
+URGENCY            4444    -
+runway_ready       0000    -
+runway_ready       0000    -
+URGENCY            4444    -
+landing_attempt    2552    Tokyo
+runway_ready       0000    -
+runway_ready       0000    -
+URGENCY            0055    -
+landing_attempt    6161    Hong Kong
+URGENCY            6161    -
+landing_attempt    9999    USA
+runway_ready       0000    -
+FINISH             0000    -

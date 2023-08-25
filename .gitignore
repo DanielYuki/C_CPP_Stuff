@@ -1,4 +1,5 @@
-*.txt
+Problems/**/*.txt
+Prototypes/**/*.txt
 *.o
 *.exe
 
