@@ -1,0 +1,20 @@
+Matrix Chain Order
+Text Size: max 70.
+
+=========================================
+Number of Matrices
+12
+
+Matrices Dimensions
+10  20
+20  50
+50  1
+1   120
+120  200
+200  50
+50  80
+80   40
+40  30
+30   100
+100  220
+220  50
