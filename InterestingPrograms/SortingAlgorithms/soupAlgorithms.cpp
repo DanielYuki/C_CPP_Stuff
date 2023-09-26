@@ -231,6 +231,7 @@ int main()
     clock_t start_t, end_t;
     float delta_t;
 
+    // add the function to generate the input
     generator();
 
     // defining input and output files
